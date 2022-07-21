@@ -1,8 +1,7 @@
 <!-- ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Gd2hyB8OPSPaUr4MGxH8MnbMD2IwBT5eDA&usqp=CAU) -->
-
-
-
-<br><br>
+<div id="header" align="center">
+  <img src="https://resumespice.com/wp-content/uploads/2021/03/1.png" width="1000" height="300"/>
+</div>
 <h1 style="color:blue" align="center">Hi 👋, I'm Anushka
    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px" style="max-width: 100%;"></a>
 </h1>
