@@ -20,7 +20,7 @@
 
 
 # Brief about me...!!!
-I am dedicated  and  determined  Frontend Engineer with a specialization  in MERN stack. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
+I am Frontend Engineer with a specialization in MERN stack. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
 <br><br>
 
 
